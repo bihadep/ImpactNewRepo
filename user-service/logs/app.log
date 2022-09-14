@@ -1,0 +1,123 @@
+2022-07-07 12:58:11,609 INFO com.pms.UserServiceApplication [restartedMain] Starting UserServiceApplication using Java 17 on CM1VA401 with PID 1732 (C:\Users\SatyajeetP2\Desktop\Project\PMSIMPACT-ProjWs\user-service\target\classes started by SatyajeetP2 in C:\Users\SatyajeetP2\Desktop\Project\PMSIMPACT-ProjWs\user-service)
+2022-07-07 12:58:11,609 INFO com.pms.UserServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-07 12:58:12,883 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-07 12:58:12,919 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 35 ms. Found 2 JPA repository interfaces.
+2022-07-07 12:58:13,222 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8585 (http)
+2022-07-07 12:58:13,223 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-07 12:58:13,224 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-07 12:58:13,253 INFO org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-07 12:58:13,256 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1621 ms
+2022-07-07 12:58:20,100 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-10 - Starting...
+2022-07-07 12:58:20,233 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-10 - Start completed.
+2022-07-07 12:58:20,930 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-07 12:58:21,029 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-07 12:58:21,293 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-07 12:58:21,641 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8585 (http) with context path ''
+2022-07-07 12:58:21,649 INFO com.pms.UserServiceApplication [restartedMain] Started UserServiceApplication in 10.258 seconds (JVM running for 11286.427)
+2022-07-07 12:58:21,651 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-07-07 13:01:49,604 INFO org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/] [http-nio-8585-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-07 13:06:10,292 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [Thread-38] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-07 13:06:10,293 INFO com.zaxxer.hikari.HikariDataSource [Thread-38] HikariPool-10 - Shutdown initiated...
+2022-07-07 13:06:10,307 INFO com.zaxxer.hikari.HikariDataSource [Thread-38] HikariPool-10 - Shutdown completed.
+2022-07-07 13:06:10,823 INFO com.pms.UserServiceApplication [restartedMain] Starting UserServiceApplication using Java 17 on CM1VA401 with PID 1732 (C:\Users\SatyajeetP2\Desktop\Project\PMSIMPACT-ProjWs\user-service\target\classes started by SatyajeetP2 in C:\Users\SatyajeetP2\Desktop\Project\PMSIMPACT-ProjWs\user-service)
+2022-07-07 13:06:10,824 INFO com.pms.UserServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-07 13:06:11,053 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-07 13:06:11,070 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 16 ms. Found 2 JPA repository interfaces.
+2022-07-07 13:06:11,183 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8585 (http)
+2022-07-07 13:06:11,184 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-07 13:06:11,184 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-07 13:06:11,219 INFO org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-07 13:06:11,220 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 393 ms
+2022-07-07 13:06:11,358 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-11 - Starting...
+2022-07-07 13:06:11,494 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-11 - Start completed.
+2022-07-07 13:06:11,576 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-07 13:06:11,714 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-07 13:06:11,979 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-07 13:06:12,330 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8585 (http) with context path ''
+2022-07-07 13:06:12,349 INFO com.pms.UserServiceApplication [restartedMain] Started UserServiceApplication in 1.568 seconds (JVM running for 11757.127)
+2022-07-07 13:06:12,351 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-07-07 13:06:19,092 INFO org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/] [http-nio-8585-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-07 13:09:44,588 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(228)-127.0.0.1] Application shutdown requested.
+2022-07-07 13:09:44,624 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(228)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-07 13:09:44,625 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(228)-127.0.0.1] HikariPool-11 - Shutdown initiated...
+2022-07-07 13:09:44,682 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(228)-127.0.0.1] HikariPool-11 - Shutdown completed.
+2022-07-07 13:09:50,609 INFO com.pms.UserServiceApplication [restartedMain] Starting UserServiceApplication using Java 17 on CM1VA401 with PID 14052 (C:\Users\SatyajeetP2\Desktop\Project\PMSIMPACT-ProjWs\user-service\target\classes started by SatyajeetP2 in C:\Users\SatyajeetP2\Desktop\Project\PMSIMPACT-ProjWs\user-service)
+2022-07-07 13:09:50,611 INFO com.pms.UserServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-07 13:09:50,731 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-07 13:09:50,731 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-07 13:09:51,734 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-07 13:09:51,817 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 64 ms. Found 2 JPA repository interfaces.
+2022-07-07 13:09:52,607 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8585 (http)
+2022-07-07 13:09:52,619 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-07 13:09:52,619 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-07 13:09:52,761 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-07 13:09:52,762 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 2030 ms
+2022-07-07 13:09:53,805 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2022-07-07 13:09:54,613 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2022-07-07 13:09:56,543 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-07 13:09:57,487 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-07 13:09:58,102 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-07 13:09:58,217 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8585 (http) with context path ''
+2022-07-07 13:09:58,235 INFO com.pms.UserServiceApplication [restartedMain] Started UserServiceApplication in 8.957 seconds (JVM running for 10.65)
+2022-07-07 13:10:29,492 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8585-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-07 13:18:04,005 INFO com.pms.UserServiceApplication [restartedMain] Starting UserServiceApplication using Java 17 on CM1VA401 with PID 120 (C:\Users\SatyajeetP2\Desktop\Project\PMSIMPACT-ProjWs\user-service\target\classes started by SatyajeetP2 in C:\Users\SatyajeetP2\Desktop\Project\PMSIMPACT-ProjWs\user-service)
+2022-07-07 13:18:04,007 INFO com.pms.UserServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-07 13:18:04,161 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-07 13:18:04,161 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-07 13:18:05,792 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-07 13:18:05,901 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 94 ms. Found 2 JPA repository interfaces.
+2022-07-07 13:18:06,859 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8585 (http)
+2022-07-07 13:18:06,885 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-07 13:18:06,886 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-07 13:18:07,013 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-07 13:18:07,014 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 2850 ms
+2022-07-07 13:18:07,910 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2022-07-07 13:18:08,253 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2022-07-07 13:18:18,564 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(17)-127.0.0.1] Application shutdown requested.
+2022-07-07 13:18:18,587 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(17)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-07 13:18:18,591 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(17)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+2022-07-07 13:18:18,607 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(17)-127.0.0.1] HikariPool-1 - Shutdown completed.
+2022-07-07 13:18:32,439 INFO com.pms.UserServiceApplication [restartedMain] Starting UserServiceApplication using Java 17 on CM1VA401 with PID 976 (C:\Users\SatyajeetP2\Desktop\Project\PMSIMPACT-ProjWs\user-service\target\classes started by SatyajeetP2 in C:\Users\SatyajeetP2\Desktop\Project\PMSIMPACT-ProjWs\user-service)
+2022-07-07 13:18:32,440 INFO com.pms.UserServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-07 13:18:32,584 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-07 13:18:32,584 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-07 13:18:33,773 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-07 13:18:33,848 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 62 ms. Found 2 JPA repository interfaces.
+2022-07-07 13:18:34,736 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8585 (http)
+2022-07-07 13:18:34,747 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-07 13:18:34,748 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-07 13:18:34,875 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-07 13:18:34,875 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 2290 ms
+2022-07-07 13:18:35,417 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2022-07-07 13:18:35,718 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2022-07-07 13:18:37,004 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-07 13:18:37,833 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-07 13:18:38,444 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-07 13:18:38,528 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8585 (http) with context path ''
+2022-07-07 13:18:38,544 INFO com.pms.UserServiceApplication [restartedMain] Started UserServiceApplication in 6.752 seconds (JVM running for 10.706)
+2022-07-07 13:19:01,998 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8585-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-07 13:21:06,216 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [Thread-5] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-07 13:21:06,220 INFO com.zaxxer.hikari.HikariDataSource [Thread-5] HikariPool-1 - Shutdown initiated...
+2022-07-07 13:21:06,242 INFO com.zaxxer.hikari.HikariDataSource [Thread-5] HikariPool-1 - Shutdown completed.
+2022-07-07 13:21:06,829 INFO com.pms.UserServiceApplication [restartedMain] Starting UserServiceApplication using Java 17 on CM1VA401 with PID 976 (C:\Users\SatyajeetP2\Desktop\Project\PMSIMPACT-ProjWs\user-service\target\classes started by SatyajeetP2 in C:\Users\SatyajeetP2\Desktop\Project\PMSIMPACT-ProjWs\user-service)
+2022-07-07 13:21:06,829 INFO com.pms.UserServiceApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-07-07 13:21:07,164 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-07 13:21:07,212 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 47 ms. Found 2 JPA repository interfaces.
+2022-07-07 13:21:07,378 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8585 (http)
+2022-07-07 13:21:07,379 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-07-07 13:21:07,380 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-07 13:21:07,422 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-07-07 13:21:07,422 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 590 ms
+2022-07-07 13:21:07,531 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-2 - Starting...
+2022-07-07 13:21:08,283 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-2 - Start completed.
+2022-07-07 13:21:10,484 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-07 13:21:10,591 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-07 13:21:10,860 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-07-07 13:21:10,907 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8585 (http) with context path ''
+2022-07-07 13:21:10,964 INFO com.pms.UserServiceApplication [restartedMain] Started UserServiceApplication in 4.179 seconds (JVM running for 163.125)
+2022-07-07 13:21:10,968 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-07-07 13:24:31,947 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8585-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-07 13:26:39,990 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(20)-127.0.0.1] Application shutdown requested.
+2022-07-07 13:26:40,070 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(20)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-07 13:26:40,071 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(20)-127.0.0.1] HikariPool-2 - Shutdown initiated...
+2022-07-07 13:26:40,135 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(20)-127.0.0.1] HikariPool-2 - Shutdown completed.
