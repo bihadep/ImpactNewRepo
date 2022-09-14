@@ -1,0 +1,775 @@
+2022-09-01----00:01:55.411   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----00:06:55.456   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----00:11:55.469   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----00:16:55.478   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----00:21:55.495   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----00:26:55.517   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----00:31:55.526   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----00:36:55.537   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----00:41:55.550   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----00:46:55.564   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----00:51:55.582   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----00:56:55.596   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----01:01:55.607   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----01:06:55.618   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----01:11:55.632   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----01:16:55.641   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----01:21:55.649   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----01:26:55.661   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----01:31:55.676   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----01:36:55.699   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----01:41:55.714   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----01:46:55.721   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----01:51:55.743   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----01:56:55.756   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----02:01:55.766   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----02:06:55.782   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----02:11:55.789   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----02:16:55.798   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----02:21:55.812   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----02:26:55.830   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----02:31:55.842   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----02:36:55.859   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----02:41:55.866   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----02:46:55.887   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----02:51:55.905   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----02:56:55.923   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----03:01:55.943   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----03:06:55.949   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----03:11:55.963   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----03:16:55.967   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----03:21:55.972   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----03:26:55.981   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----03:31:55.999   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----03:36:56.005   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----03:41:56.020   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----03:46:56.039   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----03:51:56.052   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----03:56:56.060   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----04:01:56.066   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----04:06:56.080   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----04:11:56.085   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----04:16:56.106   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----04:21:56.121   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----04:26:56.133   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----04:31:56.143   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----04:36:56.153   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----04:41:56.166   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----04:46:56.177   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----04:51:56.194   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----04:56:56.225   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----05:01:56.229   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----05:06:56.248   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----05:11:56.258   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----05:16:56.268   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----05:21:56.276   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----05:26:56.287   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----05:31:56.297   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----05:36:56.309   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----05:41:56.316   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----05:46:56.320   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----05:51:56.335   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----05:56:56.353   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----06:01:56.365   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----06:06:56.368   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----06:11:56.377   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----06:16:56.393   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----06:21:56.404   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----06:26:56.409   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----06:31:56.430   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----06:36:56.446   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----06:41:56.462   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----06:46:56.475   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----06:51:56.494   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----06:56:56.505   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----07:01:56.508   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----07:06:56.521   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----07:11:56.539   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----07:16:56.551   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----07:21:56.580   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----07:26:56.595   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----07:31:56.619   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----07:36:56.638   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----07:41:56.662   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----07:46:56.675   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----07:51:56.692   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----07:56:56.711   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----08:01:56.731   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----08:06:56.746   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----08:11:56.759   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----08:16:56.772   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----08:21:56.803   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----08:26:56.815   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----08:31:56.833   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----08:36:56.857   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----08:41:56.875   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----08:46:56.896   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----08:51:56.911   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----08:56:56.921   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----09:01:56.937   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----09:06:56.957   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----09:11:56.979   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----09:16:56.994   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----09:21:57.008   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----09:26:57.027   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----09:31:57.036   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----09:36:57.045   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----09:41:57.060   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----09:46:57.080   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----09:51:57.099   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----09:56:57.110   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----10:01:57.132   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----10:06:57.149   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----10:11:57.159   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----10:16:57.170   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----10:21:57.184   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----10:26:57.199   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----10:31:57.213   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----10:36:57.229   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----10:41:57.241   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----10:46:57.253   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----10:51:57.269   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----10:56:57.282   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----11:01:57.293   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----11:06:57.308   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----11:11:57.323   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----11:16:57.338   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----11:21:57.343   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----11:26:57.362   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----11:31:57.377   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----11:36:57.384   INFO    c.n.d.s.r.aws.ConfigClusterResolver:43  getClusterEndpoints - Resolving eureka endpoints via configuration
+2022-09-01----11:40:57.577   INFO    c.n.d.s.t.d.RedirectingEurekaHttpClient:93  execute - Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8761/eureka/} exception=I/O error on GET request for "http://localhost:8761/eureka/apps/delta": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect stacktrace=org.springframework.web.client.ResourceAccessException: I/O error on GET request for "http://localhost:8761/eureka/apps/delta": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:785)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:711)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:602)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.getApplicationsInternal(RestTemplateEurekaHttpClient.java:145)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.getDelta(RestTemplateEurekaHttpClient.java:155)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:91)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.DiscoveryClient.getAndUpdateDelta(DiscoveryClient.java:1135)
+	at com.netflix.discovery.DiscoveryClient.fetchRegistry(DiscoveryClient.java:1016)
+	at com.netflix.discovery.DiscoveryClient.refreshRegistry(DiscoveryClient.java:1531)
+	at com.netflix.discovery.DiscoveryClient$CacheRefreshThread.run(DiscoveryClient.java:1498)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:156)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:87)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:776)
+	... 22 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:579)
+	at java.base/sun.nio.ch.Net.connect(Net.java:568)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 35 more
+
+2022-09-01----11:40:57.579   WARN    c.n.d.s.t.d.RetryableEurekaHttpClient:130  execute - Request execution failed with message: I/O error on GET request for "http://localhost:8761/eureka/apps/delta": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+2022-09-01----11:40:57.587   INFO    c.n.d.s.t.d.RedirectingEurekaHttpClient:93  execute - Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8761/eureka/} exception=I/O error on PUT request for "http://localhost:8761/eureka/apps/PATIENT-SERVICE/CM1VA440.mumbai1.corp.citiustech.com:PATIENT-SERVICE:9092": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect stacktrace=org.springframework.web.client.ResourceAccessException: I/O error on PUT request for "http://localhost:8761/eureka/apps/PATIENT-SERVICE/CM1VA440.mumbai1.corp.citiustech.com:PATIENT-SERVICE:9092": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:785)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:711)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:602)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.sendHeartBeat(RestTemplateEurekaHttpClient.java:99)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:91)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:893)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1457)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:156)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:87)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:776)
+	... 19 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:579)
+	at java.base/sun.nio.ch.Net.connect(Net.java:568)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 32 more
+
+2022-09-01----11:40:57.588   WARN    c.n.d.s.t.d.RetryableEurekaHttpClient:130  execute - Request execution failed with message: I/O error on PUT request for "http://localhost:8761/eureka/apps/PATIENT-SERVICE/CM1VA440.mumbai1.corp.citiustech.com:PATIENT-SERVICE:9092": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+2022-09-01----11:40:57.593   INFO    c.n.d.s.t.d.RedirectingEurekaHttpClient:84  execute - Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8761/eureka/}, exception=I/O error on GET request for "http://localhost:8761/eureka/apps/delta": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect stacktrace=org.springframework.web.client.ResourceAccessException: I/O error on GET request for "http://localhost:8761/eureka/apps/delta": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:785)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:711)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:602)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.getApplicationsInternal(RestTemplateEurekaHttpClient.java:145)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.getDelta(RestTemplateEurekaHttpClient.java:155)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:121)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:80)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.DiscoveryClient.getAndUpdateDelta(DiscoveryClient.java:1135)
+	at com.netflix.discovery.DiscoveryClient.fetchRegistry(DiscoveryClient.java:1016)
+	at com.netflix.discovery.DiscoveryClient.refreshRegistry(DiscoveryClient.java:1531)
+	at com.netflix.discovery.DiscoveryClient$CacheRefreshThread.run(DiscoveryClient.java:1498)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:156)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:87)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:776)
+	... 23 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:579)
+	at java.base/sun.nio.ch.Net.connect(Net.java:568)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 36 more
+
+2022-09-01----11:40:57.593   WARN    c.n.d.s.t.d.RetryableEurekaHttpClient:130  execute - Request execution failed with message: I/O error on GET request for "http://localhost:8761/eureka/apps/delta": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+2022-09-01----11:40:57.594   INFO    c.netflix.discovery.DiscoveryClient:1021  fetchRegistry - DiscoveryClient_PATIENT-SERVICE/CM1VA440.mumbai1.corp.citiustech.com:PATIENT-SERVICE:9092 - was unable to refresh its cache! This periodic background refresh will be retried in 30 seconds. status = Cannot execute request on any known server stacktrace = com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.DiscoveryClient.getAndUpdateDelta(DiscoveryClient.java:1135)
+	at com.netflix.discovery.DiscoveryClient.fetchRegistry(DiscoveryClient.java:1016)
+	at com.netflix.discovery.DiscoveryClient.refreshRegistry(DiscoveryClient.java:1531)
+	at com.netflix.discovery.DiscoveryClient$CacheRefreshThread.run(DiscoveryClient.java:1498)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2022-09-01----11:40:57.595   INFO    c.n.d.s.t.d.RedirectingEurekaHttpClient:84  execute - Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8761/eureka/}, exception=I/O error on PUT request for "http://localhost:8761/eureka/apps/PATIENT-SERVICE/CM1VA440.mumbai1.corp.citiustech.com:PATIENT-SERVICE:9092": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect stacktrace=org.springframework.web.client.ResourceAccessException: I/O error on PUT request for "http://localhost:8761/eureka/apps/PATIENT-SERVICE/CM1VA440.mumbai1.corp.citiustech.com:PATIENT-SERVICE:9092": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:785)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:711)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:602)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.sendHeartBeat(RestTemplateEurekaHttpClient.java:99)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:121)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:80)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:893)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1457)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:156)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:87)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:776)
+	... 20 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:579)
+	at java.base/sun.nio.ch.Net.connect(Net.java:568)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 33 more
+
+2022-09-01----11:40:57.595   WARN    c.n.d.s.t.d.RetryableEurekaHttpClient:130  execute - Request execution failed with message: I/O error on PUT request for "http://localhost:8761/eureka/apps/PATIENT-SERVICE/CM1VA440.mumbai1.corp.citiustech.com:PATIENT-SERVICE:9092": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+2022-09-01----11:40:57.601   ERROR   c.netflix.discovery.DiscoveryClient:907  renew - DiscoveryClient_PATIENT-SERVICE/CM1VA440.mumbai1.corp.citiustech.com:PATIENT-SERVICE:9092 - was unable to send heartbeat!
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:893)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1457)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-09-01----11:41:27.615   INFO    c.n.d.s.t.d.RedirectingEurekaHttpClient:84  execute - Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8761/eureka/}, exception=I/O error on PUT request for "http://localhost:8761/eureka/apps/PATIENT-SERVICE/CM1VA440.mumbai1.corp.citiustech.com:PATIENT-SERVICE:9092": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect stacktrace=org.springframework.web.client.ResourceAccessException: I/O error on PUT request for "http://localhost:8761/eureka/apps/PATIENT-SERVICE/CM1VA440.mumbai1.corp.citiustech.com:PATIENT-SERVICE:9092": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:785)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:711)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:602)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.sendHeartBeat(RestTemplateEurekaHttpClient.java:99)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:121)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:80)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:893)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1457)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:156)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:87)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:776)
+	... 20 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:579)
+	at java.base/sun.nio.ch.Net.connect(Net.java:568)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 33 more
+
+2022-09-01----11:41:27.620   WARN    c.n.d.s.t.d.RetryableEurekaHttpClient:130  execute - Request execution failed with message: I/O error on PUT request for "http://localhost:8761/eureka/apps/PATIENT-SERVICE/CM1VA440.mumbai1.corp.citiustech.com:PATIENT-SERVICE:9092": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+2022-09-01----11:41:27.621   ERROR   c.netflix.discovery.DiscoveryClient:907  renew - DiscoveryClient_PATIENT-SERVICE/CM1VA440.mumbai1.corp.citiustech.com:PATIENT-SERVICE:9092 - was unable to send heartbeat!
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:893)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1457)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-09-01----11:41:27.615   INFO    c.n.d.s.t.d.RedirectingEurekaHttpClient:84  execute - Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8761/eureka/}, exception=I/O error on GET request for "http://localhost:8761/eureka/apps/delta": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect stacktrace=org.springframework.web.client.ResourceAccessException: I/O error on GET request for "http://localhost:8761/eureka/apps/delta": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:785)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:711)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:602)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.getApplicationsInternal(RestTemplateEurekaHttpClient.java:145)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.getDelta(RestTemplateEurekaHttpClient.java:155)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:121)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:80)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.DiscoveryClient.getAndUpdateDelta(DiscoveryClient.java:1135)
+	at com.netflix.discovery.DiscoveryClient.fetchRegistry(DiscoveryClient.java:1016)
+	at com.netflix.discovery.DiscoveryClient.refreshRegistry(DiscoveryClient.java:1531)
+	at com.netflix.discovery.DiscoveryClient$CacheRefreshThread.run(DiscoveryClient.java:1498)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:156)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:87)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:776)
+	... 23 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:579)
+	at java.base/sun.nio.ch.Net.connect(Net.java:568)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 36 more
+
+2022-09-01----11:41:27.622   WARN    c.n.d.s.t.d.RetryableEurekaHttpClient:130  execute - Request execution failed with message: I/O error on GET request for "http://localhost:8761/eureka/apps/delta": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+2022-09-01----11:41:27.622   INFO    c.netflix.discovery.DiscoveryClient:1021  fetchRegistry - DiscoveryClient_PATIENT-SERVICE/CM1VA440.mumbai1.corp.citiustech.com:PATIENT-SERVICE:9092 - was unable to refresh its cache! This periodic background refresh will be retried in 30 seconds. status = Cannot execute request on any known server stacktrace = com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.DiscoveryClient.getAndUpdateDelta(DiscoveryClient.java:1135)
+	at com.netflix.discovery.DiscoveryClient.fetchRegistry(DiscoveryClient.java:1016)
+	at com.netflix.discovery.DiscoveryClient.refreshRegistry(DiscoveryClient.java:1531)
+	at com.netflix.discovery.DiscoveryClient$CacheRefreshThread.run(DiscoveryClient.java:1498)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2022-09-01----11:41:34.509   INFO    o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin:159  shutdown - Application shutdown requested.
+2022-09-01----11:41:34.511   INFO    o.s.c.n.e.s.EurekaServiceRegistry:62  deregister - Unregistering application PATIENT-SERVICE with eureka with status DOWN
+2022-09-01----11:41:34.512   INFO    c.n.discovery.DiscoveryClient$3:1352  notify - Saw local status change event StatusChangeEvent [timestamp=1662012694512, current=DOWN, previous=UP]
+2022-09-01----11:41:34.513   INFO    c.netflix.discovery.DiscoveryClient:873  register - DiscoveryClient_PATIENT-SERVICE/CM1VA440.mumbai1.corp.citiustech.com:PATIENT-SERVICE:9092: registering service...
+2022-09-01----11:41:34.530   INFO    c.n.d.s.t.d.RedirectingEurekaHttpClient:84  execute - Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8761/eureka/}, exception=I/O error on POST request for "http://localhost:8761/eureka/apps/PATIENT-SERVICE": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect stacktrace=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:8761/eureka/apps/PATIENT-SERVICE": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:785)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:711)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:602)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.register(RestTemplateEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:121)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:80)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.DiscoveryClient.register(DiscoveryClient.java:876)
+	at com.netflix.discovery.InstanceInfoReplicator.run(InstanceInfoReplicator.java:121)
+	at com.netflix.discovery.InstanceInfoReplicator$1.run(InstanceInfoReplicator.java:101)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:156)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:87)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:776)
+	... 22 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:579)
+	at java.base/sun.nio.ch.Net.connect(Net.java:568)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 35 more
+
+2022-09-01----11:41:34.530   WARN    c.n.d.s.t.d.RetryableEurekaHttpClient:130  execute - Request execution failed with message: I/O error on POST request for "http://localhost:8761/eureka/apps/PATIENT-SERVICE": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+2022-09-01----11:41:34.532   WARN    c.netflix.discovery.DiscoveryClient:878  register - DiscoveryClient_PATIENT-SERVICE/CM1VA440.mumbai1.corp.citiustech.com:PATIENT-SERVICE:9092 - registration failed Cannot execute request on any known server
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.DiscoveryClient.register(DiscoveryClient.java:876)
+	at com.netflix.discovery.InstanceInfoReplicator.run(InstanceInfoReplicator.java:121)
+	at com.netflix.discovery.InstanceInfoReplicator$1.run(InstanceInfoReplicator.java:101)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-09-01----11:41:34.533   WARN    c.n.discovery.InstanceInfoReplicator:125  run - There was a problem with the instance info replicator
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.DiscoveryClient.register(DiscoveryClient.java:876)
+	at com.netflix.discovery.InstanceInfoReplicator.run(InstanceInfoReplicator.java:121)
+	at com.netflix.discovery.InstanceInfoReplicator$1.run(InstanceInfoReplicator.java:101)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-09-01----11:41:35.423   INFO    o.s.o.j.AbstractEntityManagerFactoryBean:651  destroy - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-09-01----11:41:35.428   INFO    com.zaxxer.hikari.HikariDataSource:350  close - HikariPool-1 - Shutdown initiated...
+2022-09-01----11:41:35.442   INFO    com.zaxxer.hikari.HikariDataSource:352  close - HikariPool-1 - Shutdown completed.
+2022-09-01----11:41:35.443   INFO    c.netflix.discovery.DiscoveryClient:935  shutdown - Shutting down DiscoveryClient ...
+2022-09-01----11:41:38.455   INFO    c.netflix.discovery.DiscoveryClient:971  unregister - Unregistering ...
+2022-09-01----11:41:38.465   INFO    c.n.d.s.t.d.RedirectingEurekaHttpClient:84  execute - Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8761/eureka/}, exception=I/O error on DELETE request for "http://localhost:8761/eureka/apps/PATIENT-SERVICE/CM1VA440.mumbai1.corp.citiustech.com:PATIENT-SERVICE:9092": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect stacktrace=org.springframework.web.client.ResourceAccessException: I/O error on DELETE request for "http://localhost:8761/eureka/apps/PATIENT-SERVICE/CM1VA440.mumbai1.corp.citiustech.com:PATIENT-SERVICE:9092": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:785)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:711)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:602)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.cancel(RestTemplateEurekaHttpClient.java:87)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:121)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:80)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.DiscoveryClient.unregister(DiscoveryClient.java:972)
+	at com.netflix.discovery.DiscoveryClient.shutdown(DiscoveryClient.java:948)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleElement.invoke(InitDestroyAnnotationBeanPostProcessor.java:389)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.invokeDestroyMethods(InitDestroyAnnotationBeanPostProcessor.java:347)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeDestruction(InitDestroyAnnotationBeanPostProcessor.java:177)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:197)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.run(DisposableBeanAdapter.java:190)
+	at org.springframework.cloud.context.scope.GenericScope$BeanLifecycleWrapper.destroy(GenericScope.java:390)
+	at org.springframework.cloud.context.scope.GenericScope.destroy(GenericScope.java:136)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:213)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:587)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:559)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:1163)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:520)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:1156)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1106)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1075)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.doClose(ServletWebServerApplicationContext.java:172)
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:1021)
+	at org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown(SpringApplicationAdminMXBeanRegistrar.java:160)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at sun.reflect.misc.Trampoline.invoke(MethodUtil.java:72)
+	at jdk.internal.reflect.GeneratedMethodAccessor90.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/sun.reflect.misc.MethodUtil.invoke(MethodUtil.java:262)
+	at java.management/com.sun.jmx.mbeanserver.ConvertingMethod.invokeWithOpenReturn(ConvertingMethod.java:193)
+	at java.management/com.sun.jmx.mbeanserver.ConvertingMethod.invokeWithOpenReturn(ConvertingMethod.java:175)
+	at java.management/com.sun.jmx.mbeanserver.MXBeanIntrospector.invokeM2(MXBeanIntrospector.java:117)
+	at java.management/com.sun.jmx.mbeanserver.MXBeanIntrospector.invokeM2(MXBeanIntrospector.java:54)
+	at java.management/com.sun.jmx.mbeanserver.MBeanIntrospector.invokeM(MBeanIntrospector.java:237)
+	at java.management/com.sun.jmx.mbeanserver.PerInterface.invoke(PerInterface.java:138)
+	at java.management/com.sun.jmx.mbeanserver.MBeanSupport.invoke(MBeanSupport.java:252)
+	at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:814)
+	at java.management/com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:802)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl.doOperation(RMIConnectionImpl.java:1472)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl$PrivilegedOperation.run(RMIConnectionImpl.java:1310)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl.doPrivilegedOperation(RMIConnectionImpl.java:1405)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl.invoke(RMIConnectionImpl.java:829)
+	at java.base/jdk.internal.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.rmi/sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:360)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.rmi/sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:587)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:828)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:705)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:704)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:156)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:87)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:776)
+	... 75 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:579)
+	at java.base/sun.nio.ch.Net.connect(Net.java:568)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 88 more
+
+2022-09-01----11:41:38.466   WARN    c.n.d.s.t.d.RetryableEurekaHttpClient:130  execute - Request execution failed with message: I/O error on DELETE request for "http://localhost:8761/eureka/apps/PATIENT-SERVICE/CM1VA440.mumbai1.corp.citiustech.com:PATIENT-SERVICE:9092": Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to localhost:8761 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+2022-09-01----11:41:38.468   ERROR   c.netflix.discovery.DiscoveryClient:975  unregister - DiscoveryClient_PATIENT-SERVICE/CM1VA440.mumbai1.corp.citiustech.com:PATIENT-SERVICE:9092 - de-registration failedCannot execute request on any known server
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.DiscoveryClient.unregister(DiscoveryClient.java:972)
+	at com.netflix.discovery.DiscoveryClient.shutdown(DiscoveryClient.java:948)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleElement.invoke(InitDestroyAnnotationBeanPostProcessor.java:389)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.invokeDestroyMethods(InitDestroyAnnotationBeanPostProcessor.java:347)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeDestruction(InitDestroyAnnotationBeanPostProcessor.java:177)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:197)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.run(DisposableBeanAdapter.java:190)
+	at org.springframework.cloud.context.scope.GenericScope$BeanLifecycleWrapper.destroy(GenericScope.java:390)
+	at org.springframework.cloud.context.scope.GenericScope.destroy(GenericScope.java:136)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:213)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:587)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:559)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:1163)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:520)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:1156)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1106)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1075)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.doClose(ServletWebServerApplicationContext.java:172)
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:1021)
+	at org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown(SpringApplicationAdminMXBeanRegistrar.java:160)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at sun.reflect.misc.Trampoline.invoke(MethodUtil.java:72)
+	at jdk.internal.reflect.GeneratedMethodAccessor90.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/sun.reflect.misc.MethodUtil.invoke(MethodUtil.java:262)
+	at java.management/com.sun.jmx.mbeanserver.ConvertingMethod.invokeWithOpenReturn(ConvertingMethod.java:193)
+	at java.management/com.sun.jmx.mbeanserver.ConvertingMethod.invokeWithOpenReturn(ConvertingMethod.java:175)
+	at java.management/com.sun.jmx.mbeanserver.MXBeanIntrospector.invokeM2(MXBeanIntrospector.java:117)
+	at java.management/com.sun.jmx.mbeanserver.MXBeanIntrospector.invokeM2(MXBeanIntrospector.java:54)
+	at java.management/com.sun.jmx.mbeanserver.MBeanIntrospector.invokeM(MBeanIntrospector.java:237)
+	at java.management/com.sun.jmx.mbeanserver.PerInterface.invoke(PerInterface.java:138)
+	at java.management/com.sun.jmx.mbeanserver.MBeanSupport.invoke(MBeanSupport.java:252)
+	at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:814)
+	at java.management/com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:802)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl.doOperation(RMIConnectionImpl.java:1472)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl$PrivilegedOperation.run(RMIConnectionImpl.java:1310)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl.doPrivilegedOperation(RMIConnectionImpl.java:1405)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl.invoke(RMIConnectionImpl.java:829)
+	at java.base/jdk.internal.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.rmi/sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:360)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.rmi/sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:587)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:828)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:705)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:704)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-09-01----11:41:38.533   INFO    c.netflix.discovery.DiscoveryClient:960  shutdown - Completed shut down of DiscoveryClient
