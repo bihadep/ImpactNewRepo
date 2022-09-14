@@ -1,0 +1,85 @@
+<mat-sidenav-container class="sidenav-container">
+  <mat-sidenav #drawer class="sidenav" fixedInViewport [attr.role]="(isHandset$ | async) ? 'dialog' : 'navigation'"
+    [mode]="(isHandset$ | async) ? 'push' : 'side'" [opened]="(isHandset$ | async) === false">
+    <mat-toolbar>Menu</mat-toolbar>
+    <mat-nav-list>
+
+      <!-- FOR ADMIN ONLY-->
+      <mat-list-item *ngIf="role === 'ROLE_Admin'" [routerLink]="['../admin/dashboard']">
+        <mat-icon>dashboard</mat-icon> Dashboard
+      </mat-list-item>
+      <mat-list-item *ngIf="role === 'ROLE_Admin'" [routerLink]="['../admin/user-registration']">
+        <mat-icon>person_add</mat-icon> Add user
+      </mat-list-item>
+      <!-- FOR ADMIN ONLY-->
+
+      <!-- FOR PHYSICIAN ONLY-->
+      <mat-list-item *ngIf="role === 'ROLE_Physician'" [routerLink]="['../physician/dashboard']">
+        <mat-icon>dashboard</mat-icon> Dashboard
+      </mat-list-item>
+      <mat-list-item *ngIf="role === 'ROLE_Physician'" [routerLink]="['../physician/schedule']">
+        <mat-icon>schedule</mat-icon> Schedule
+      </mat-list-item>
+      <mat-list-item *ngIf="role === 'ROLE_Physician'" [routerLink]="['../physician/display-user']">
+        <mat-icon>person</mat-icon> Patient
+      </mat-list-item>
+      <!-- FOR PHYSICIAN ONLY-->
+
+      <!-- FOR PATIENT ONLY-->
+      <mat-list-item *ngIf="role === 'ROLE_Patient'" [routerLink]="['../patient/dashboard']">
+        <mat-icon>dashboard</mat-icon> Dashboard
+      </mat-list-item>
+      <mat-list-item *ngIf="role === 'ROLE_Patient'" [routerLink]="['../patient/book-appointment']">
+        <mat-icon>schedule</mat-icon> Appointments
+      </mat-list-item>
+      <!-- FOR PATIENT ONLY-->
+
+      <!-- FOR NURSE ONLY-->
+      <mat-list-item *ngIf="role === 'ROLE_Nurse'" [routerLink]="['../admin/user-registration']">
+        <mat-icon>person</mat-icon> Patient
+      </mat-list-item>
+      <!-- FOR NURSE ONLY-->
+
+    </mat-nav-list>
+
+    <!-- FOR ADMIN ONLY-->
+    <mat-expansion-panel *ngIf="role === 'ROLE_Admin'" [class.mat-elevation-z0]="true">
+      <mat-expansion-panel-header>
+        <mat-icon>view_list</mat-icon>User list
+      </mat-expansion-panel-header>
+      <mat-nav-list>
+        <mat-list-item [routerLink]="['../admin/display-user/2']">
+          <mat-icon mat-list-icon>medical_services</mat-icon> Physician
+        </mat-list-item>
+        <mat-list-item [routerLink]="['../admin/display-user/3']">
+          <mat-icon mat-list-icon>medication</mat-icon> Nurse
+        </mat-list-item>
+        <mat-list-item [routerLink]="['../admin/display-user/4']">
+          <mat-icon mat-list-icon>person</mat-icon> Patient
+        </mat-list-item>
+      </mat-nav-list>
+    </mat-expansion-panel>
+    <!-- FOR ADMIN ONLY-->
+
+    <mat-nav-list>
+      <mat-list-item (click)="logout()">
+        <mat-icon>logout</mat-icon>Logout
+      </mat-list-item>
+    </mat-nav-list>
+
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <mat-toolbar color="primary">
+      <button type="button" aria-label="Toggle sidenav" mat-icon-button (click)="drawer.toggle()"
+        *ngIf="isHandset$ | async">
+        <mat-icon aria-label="Side nav toggle icon">menu</mat-icon>
+      </button>
+      <span>City Hospital</span>
+      <span class="example-spacer"></span>
+      
+      <button class="btn btn-primary" mat-raised-button *ngIf="role === 'ROLE_Patient' && showReportIcon" (click)="downloadReport()">
+        <mat-icon >arrow_downward</mat-icon> Report</button>
+    </mat-toolbar>
+    <router-outlet></router-outlet>
+  </mat-sidenav-content>
+</mat-sidenav-container>
